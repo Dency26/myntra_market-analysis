@@ -6,6 +6,7 @@ PROJECT ANALYSIS
 DATASET USED
 - **Source:** [https://www.kaggle.com/datasets/ashishjangra27/myntra-168k-products]
 - **License:** Public domain
+
 The dataset contains 168029 rows and 10 columns. The columns include brand name, rating, rating_count, marked_price, discounted_price, sizes, product link, image link, product tag and brand tag.
 
 DATA CLEANING AND TRANSFORMATION
